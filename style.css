@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    padding: 20px;
+    background-color: #8c8cce;
+    color: #fff;
+    text-align: center;
+    line-height: 10px;
+    border-bottom: 5px solid rgb(20, 183, 237);
+    
+}
+.centralizar{
+    text-align: center;
+}
+.titulo{
+    color: #0a0aaa;
+    padding-top: 40px;
+}
+.linha{
+    border: 2px solid rgb(130, 176, 118);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: -5px;
+    background-color:rgb(130, 176, 118) ;
+}
+.icone{
+    max-width: 50px;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 10px;
+}
+.icone2{
+    max-width: 150px;
+    position:absolute;
+    margin-left: 250px;
+    margin-top: -80px;
+    border-radius: 200px;
+    border: 5px solid rgb(20, 183, 237);
+}
+.paragrafo{
+    color:rgb(173, 191, 55);
+}
+
+.footer1{
+    height: 20px;
+    background-color: #0a0aaa;
+}
+.footer2{
+    height: 50px;
+    background-color: #101043;
+}
+.linha2{
+    color: #101043;
+    border: 5px solid rgb(104, 104, 197);
+    background-color: rgb(104, 104, 197) ;
+    margin-bottom: 0;
+}
